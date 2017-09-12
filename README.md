@@ -50,7 +50,5 @@ Feel free to dive in! [Open an issue](https://github.com/playyground/basehtml/is
 
 Base is created and maintained by [Playyground](https://playyground.com/).
 
----
-
 #### Still need help?
 Email me at [hello@playyground.com](mailto:hello@playyground.com?Subject=Support%3A%20Base%20HTML5%20Boilerplate)
