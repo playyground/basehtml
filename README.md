@@ -7,11 +7,11 @@ Visit [https://basehtml.com/](https://basehtml.com/) to learn more.
 
 ## Quick start
 
-- [Download the .zip](https://github.com/shaanshivanandan/basehtml/archive/master.zip) or;
+- [Download the .zip](https://github.com/playyground/basehtml/archive/master.zip) or;
 - Clone this repository using the command below:
 
 ```sh
-git clone https://github.com/shaanshivanandan/basehtml.git
+git clone https://github.com/playyground/basehtml.git
 ```
 
 ## Release Integrity
@@ -35,7 +35,7 @@ Please visit [https://basehtml.com/releaseintegrity/](https://basehtml.com/relea
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/shaanshivanandan/basehtml/issues/new/) or submit PRs.
+Feel free to dive in! [Open an issue](https://github.com/playyground/basehtml/issues/new/) or submit PRs.
 
 #### Contributors
 - Shaan Shivanandan
