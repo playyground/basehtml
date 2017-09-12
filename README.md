@@ -1,7 +1,7 @@
 ![Base HTML](https://privacdn.com/basehtml/ig3xik.png)
 # Base: HTML5 Boilerplate
 
->Base is a lightweight and efficient HTML5 Boilerplate for your next web project designed & developed by [Playyground](https://playyground.com/).
+Base is a lightweight and efficient HTML5 Boilerplate for your next web project designed & developed by [Playyground](https://playyground.com/).
 
 Visit [https://basehtml.com/](https://basehtml.com/) to learn more.
 
