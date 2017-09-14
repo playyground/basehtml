@@ -37,8 +37,6 @@ Feel free to dive in! [Open an issue](https://github.com/playyground/basehtml/is
 
 #### Contributors
 - Shaan Shivanandan
-- Rajath Bail
-- Aditya Shankar
 
 ## License
 
