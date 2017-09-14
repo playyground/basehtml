@@ -1,4 +1,4 @@
-![Base HTML](https://privacdn.com/basehtml/hybnke.png)
+![Base HTML](https://privacdn.com/basehtml/5sjjav.png)
 # Base: HTML5 Boilerplate
 
 >Base is a lightweight and efficient HTML5 Boilerplate for your next web project designed & developed by [Playyground](https://playyground.com/).
